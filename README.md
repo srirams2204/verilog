@@ -7,3 +7,6 @@ This repository offers a collection of reuable and tested Verilog modules made f
   <img src="https://github.com/user-attachments/assets/1d03b822-9113-4138-a552-0840d93a6559" alt="Right Image" height="200" />
 </p>
 
+## References
+ - **Verilog HDL**: A Guide to Digital Design and Synthesis, 2nd Edition - By Samir Palnitkar
+ - **Digital Design**: With An Introduction To Verilog HDL, 5th Edition - By Morris Mano & Michael D. Giletti
